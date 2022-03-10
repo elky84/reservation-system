@@ -25,3 +25,5 @@ nbdist/
 src/main/webapp/css/
 
 application-local.properties
+
+.vscode/
